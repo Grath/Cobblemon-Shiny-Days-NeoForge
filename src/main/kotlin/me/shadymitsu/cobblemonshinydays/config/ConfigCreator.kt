@@ -66,11 +66,12 @@ object ConfigCreator {
             ConfigFields(
                 species = emptyList(),
                 labels = listOf("gen5"),
-                types = listOf("lightning"),
+                types = listOf("electric"),
                 days = listOf("Friday"),
                 multiplier = 2.0f,
                 broadcastInterval = 300
             )
         )
     }
+
 }
